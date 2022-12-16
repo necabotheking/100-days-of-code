@@ -35,8 +35,8 @@ game_images = [rock, paper, scissors]
 player_1 = int(input("What do you choose? \nType 0 for Rock, 1 for Paper or 2 for Scissors." + "\n"))
 player_2 = random.randint(0, len(game_images) - 1)
 
-if player_1 != 0 or 1 or 1:
-    player_1= int(input("Try again. \nType 0 for Rock, 1 for Paper or 2 for Scissors."))
+while player_1 != 0 and player_1 != 1 and player_1!= 2:
+    player_1= int(input("Try again. \nType 0 for Rock, 1 for Paper or 2 for Scissors." + "\n"))
 print("\n")
 
 print("You played")
