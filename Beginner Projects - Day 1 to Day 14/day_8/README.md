@@ -25,6 +25,8 @@ a8"     "" 88 88P'    "8a 88P'    "8a a8P_____88 88P'   "Y8
               88                                             
               88    
 Type 'encode' to encrypt, type 'decode' to decrypt:
+encode
+
 Type your message:
 Hello World!
 
