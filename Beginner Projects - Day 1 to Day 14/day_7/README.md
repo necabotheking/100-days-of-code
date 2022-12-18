@@ -4,17 +4,34 @@
 ### Project 7 - Hangman
 ***
 ## Instructions
-
+Create a hangman game in Python
 
 ## Example Input
 
 ```python
-Welcome to the tip calculator!
-What was the total bill? $124.56
-How much tip would you like to give? 10, 12, or 15? 12
-How many people to split the bill? 7
+ _                                             
+| |                                            
+| |__   __ _ _ __   __ _ _ __ ___   __ _ _ __  
+| '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
+| | | | (_| | | | | (_| | | | | | | (_| | | | |
+|_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
+                    __/ |                      
+                   |___/    
+Welcome to Hangman!
+Please guess a letter:
+x
 ```
 ## Example Output
 ```python
-Each person should pay: $19.93
+_ _ x _ _ _ _
+
+  +---+
+  |   |
+      |
+      |
+      |
+      |
+=========
+
+Please guess a letter:
 ```
