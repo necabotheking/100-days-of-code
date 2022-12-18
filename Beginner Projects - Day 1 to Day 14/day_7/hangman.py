@@ -10,7 +10,7 @@ print(logo)
 print("Welcome to Hangman!\n")
 
 chosen_word = random.choice(word_list)
-print(f"The word is {chosen_word}")
+#print(f"The word is {chosen_word}")
 
 # create the blank game board
 game_display = len(chosen_word) * ["_"]
@@ -22,9 +22,10 @@ while not game_end:
     guess = str(input("Please guess a letter:\n")).lower()
 
     # check guessed letter
-    for letter in chosen_word:
+    for position in range(len(chosen_word)):
+        letter = chosen_word[position]
         if letter == guess:
-            game_display[chosen_word.index(guess)] = guess
+            game_display[position] = guess
 
     if guess not in chosen_word:
         print("\nOops Wrong Guess")
@@ -32,6 +33,7 @@ while not game_end:
         if game_lives == 0:
             game_end = True
             print("You lose!")
+            print(f"The word is {chosen_word}")
 
     print(f"{' '.join(game_display)}")
 
