@@ -45,7 +45,7 @@ def decrypt(encryped_word, shift_num):
     decrypted_word = ""
     for letter in encryped_word:
         if letter not in alphabet:
-            encryped_word += letter 
+            decrypted_word += letter 
         else:
             current_position = encryped_word.index(letter)
             new_position = alphabet[current_position - shift_num]
