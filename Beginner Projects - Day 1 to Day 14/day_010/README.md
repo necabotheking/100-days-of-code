@@ -10,19 +10,6 @@ The program should ask for each bidder's name and their bid individually.
 ## Example Input
 
 ```python
-
-```
-```python
-
-```
-```python
-
-```
-
-[INSERT EXAMPLE]
-
-## Example Output
-```python
 ""
  _____________________
 |  _________________  |
@@ -39,4 +26,25 @@ The program should ask for each bidder's name and their bid individually.
 | |___|___|___| |___| |  '----------------'  '----------------'  '----------------'  '----------------' 
 |_____________________|
 ""
+What is the first number?: 
+4
+```
++
+-
+/
+*
+```python
+What operation would you like to perform?: 
+*
+```
+```python
+What is the second number?:
+77
+
+```
+
+## Example Output
+```python
+4.0 * 77.0 = 308.0
+Type 'y' to continue calculating with 308.0, or type 'n' to start a new calculation or anything else to quit: 
 ```
