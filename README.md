@@ -14,28 +14,28 @@
 - [Day 10:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_010) Functions with Outputs
 - [Day 11:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_011) The Blackjack Capstone Project 
 <!--
-- [Day 12:](https://github.com/phillipai/100-days-of-code-python/tree/main/day](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_012) Scope & Number Guessing Game
-- [Day 13:](https://github.com/phillipai/100-days-of-code-python/tree/main/day](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_013) Debugging: How to Find and Fix Errors in your Code
-- [Day 14:](https://github.com/phillipai/100-days-of-code-python/tree/main/day14) Higher Lower Game Project
+- [Day 12:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_012] Scope & Number Guessing Game
+- [Day 13:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_013) Debugging: How to Find and Fix Errors in your Code
+- [Day 14:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_014) Higher Lower Game Project
 
 ## 📚 Intermediate
-- [Day 15:](https://github.com/phillipai/100-days-of-code-python/tree/main/day15) Local Development Environment Setup & the Coffee Machine
-- [Day 16:](https://github.com/phillipai/100-days-of-code-python/tree/main/day16) Object Oriented Programming (OOP)
-- [Day 17:](https://github.com/phillipai/100-days-of-code-python/tree/main/day17) The Quiz Project & The Benefits of OOP
-- [Day 18:](https://github.com/phillipai/100-days-of-code-python/tree/main/day18) Turtle & the Graphical User Interface (GUI)
-- [Day 19:](https://github.com/phillipai/100-days-of-code-python/tree/main/day19) Instances, State and Higher Order Functions
-- [Day 20:](https://github.com/phillipai/100-days-of-code-python/tree/main/day20) Build the Snake Game Part 1: Animation & Coordinates
-- [Day 21:](https://github.com/phillipai/100-days-of-code-python/tree/main/day21) Build the Snake Game Part 2: Inheritance & List Slicing
-- [Day 22:](https://github.com/phillipai/100-days-of-code-python/tree/main/day22) Build Pong: The Famous Arcade Game
-- [Day 23:](https://github.com/phillipai/100-days-of-code-python/tree/main/day23) The Turtle Crossing Capstone Project
-- [Day 24:](https://github.com/phillipai/100-days-of-code-python/tree/main/day24) Files, Directories and Paths
-- [Day 25:](https://github.com/phillipai/100-days-of-code-python/tree/main/day25) Working with CSV Data and the Pandas Library
-- [Day 26:](https://github.com/phillipai/100-days-of-code-python/tree/main/day26) List Comprehension and the Nato Alphabet
-- [Day 27:](https://github.com/phillipai/100-days-of-code-python/tree/main/day27) Tkinter, *args, **kwargs and Creating GUI Programs
-- [Day 28:](https://github.com/phillipai/100-days-of-code-python/tree/main/day28) Tkinter, Dynamic Typing and the Pomodoro GUI Application
-- [Day 29:](https://github.com/phillipai/100-days-of-code-python/tree/main/day29) Building a Password Manager GUI App with Tkinter
-- [Day 30:](https://github.com/phillipai/100-days-of-code-python/tree/main/day30) Errors, Exceptions and JSON Data: Improving the Password Manager
-- [Day 31:](https://github.com/phillipai/100-days-of-code-python/tree/main/day31) Flash Card App Capstone Project
+- [Day 15:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_015) Local Development Environment Setup & the Coffee Machine
+- [Day 16:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_016) Object Oriented Programming (OOP)
+- [Day 17:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_017) The Quiz Project & The Benefits of OOP
+- [Day 18:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_018) Turtle & the Graphical User Interface (GUI)
+- [Day 19:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_019) Instances, State and Higher Order Functions
+- [Day 20:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_020) Build the Snake Game Part 1: Animation & Coordinates
+- [Day 21:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_021) Build the Snake Game Part 2: Inheritance & List Slicing
+- [Day 22:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_022) Build Pong: The Famous Arcade Game
+- [Day 23:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_023) The Turtle Crossing Capstone Project
+- [Day 24:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_024) Files, Directories and Paths
+- [Day 25:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_025) Working with CSV Data and the Pandas Library
+- [Day 26:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_026) List Comprehension and the Nato Alphabet
+- [Day 27:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_027) Tkinter, *args, **kwargs and Creating GUI Programs
+- [Day 28:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_028) Tkinter, Dynamic Typing and the Pomodoro GUI Application
+- [Day 29:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_029) Building a Password Manager GUI App with Tkinter
+- [Day 30:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_030) Errors, Exceptions and JSON Data: Improving the Password Manager
+- [Day 31:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_031) Flash Card App Capstone Project
 
 ## 👨‍💻 Intermediate+
 - [Day 32:](https://github.com/phillipai/100-days-of-code-python/tree/main/day32) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
