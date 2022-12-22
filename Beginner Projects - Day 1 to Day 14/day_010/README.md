@@ -10,7 +10,7 @@ The program should ask for each bidder's name and their bid individually.
 ## Example Input
 
 ```python
-""
+
  _____________________
 |  _________________  |
 | | Pythonista   0. | |  .----------------.  .----------------.  .----------------.  .----------------. 
@@ -25,22 +25,20 @@ The program should ask for each bidder's name and their bid individually.
 | | . | 0 | = | | / | | | '--------------' || '--------------' || '--------------' || '--------------' |
 | |___|___|___| |___| |  '----------------'  '----------------'  '----------------'  '----------------' 
 |_____________________|
-""
+
 What is the first number?: 
 4
-```
+
 +
 -
 /
 *
-```python
+
 What operation would you like to perform?: 
 *
-```
-```python
+
 What is the second number?:
 77
-
 ```
 
 ## Example Output
