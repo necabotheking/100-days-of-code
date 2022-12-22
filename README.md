@@ -38,33 +38,33 @@
 - [Day 31:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_031) Flash Card App Capstone Project
 
 ## 👨‍💻 Intermediate+
-- [Day 32:](https://github.com/phillipai/100-days-of-code-python/tree/main/day32) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
-- [Day 33:](https://github.com/phillipai/100-days-of-code-python/tree/main/day33) API Endpoints & API Parameters - ISS Overhead Notifier
-- [Day 34:](https://github.com/phillipai/100-days-of-code-python/tree/main/day34) API Practice - Creating a GUI Quiz App
-- [Day 35:](https://github.com/phillipai/100-days-of-code-python/tree/main/day35) Keys, Authentication & Environment Variables - Telegram Rain Notifier
-- [Day 36:](https://github.com/phillipai/100-days-of-code-python/tree/main/day36) Stock Trading News Alert Project
-- [Day 37:](https://github.com/phillipai/100-days-of-code-python/tree/main/day37) Habit Tracking Project: API Post Requests & Headers
-- [Day 38:](https://github.com/phillipai/100-days-of-code-python/tree/main/day38) Workout Tracking Using Google Sheets
-- [Day 39:](https://github.com/phillipai/100-days-of-code-python/tree/main/day39) Capstone Part 1: Flight Deal Finder
-- [Day 40:](https://github.com/phillipai/100-days-of-code-python/tree/main/day40) Capstone Part 2: Flight Club
-- [Day 41:](https://github.com/phillipai/100-days-of-code-python/tree/main/day41) Introduction to HTML
-- [Day 42:](https://github.com/phillipai/100-days-of-code-python/tree/main/day42) Intermediate HTML
-- [Day 43:](https://github.com/phillipai/100-days-of-code-python/tree/main/day43) Introduction to CSS
-- [Day 44:](https://github.com/phillipai/100-days-of-code-python/tree/main/day44) Intermediate CSS
-- [Day 45:](https://github.com/phillipai/100-days-of-code-python/tree/main/day45) Web Scraping with Beautiful Soup
-- [Day 46:](https://github.com/phillipai/100-days-of-code-python/tree/main/day46) Create a Spotify Playlist Using The Musical Time Machine
-- [Day 47:](https://github.com/phillipai/100-days-of-code-python/tree/main/day47) Create an Automated Amazon Price Tracker
-- [Day 48:](https://github.com/phillipai/100-days-of-code-python/tree/main/day48) Selenium Webdriver Browser and Game Playing Bot
-- [Day 49:](https://github.com/phillipai/100-days-of-code-python/tree/main/day49) Automating Job Applications on LinkedIn
-- [Day 50:](https://github.com/phillipai/100-days-of-code-python/tree/main/day50) Auto Tinder Swiping Bot
-- [Day 51:](https://github.com/phillipai/100-days-of-code-python/tree/main/day51) Internet Speed Twitter Complaint Bot
-- [Day 52:](https://github.com/phillipai/100-days-of-code-python/tree/main/day52) Instagram Follower Bot
-- [Day 53:](https://github.com/phillipai/100-days-of-code-python/tree/main/day53) Web Scraping Capstone - Data Entry Job Automation
-- [Day 54:](https://github.com/phillipai/100-days-of-code-python/tree/main/day54) Introduction to Web Development with Flask
-- [Day 55:](https://github.com/phillipai/100-days-of-code-python/tree/main/day55) HTML & URL Parsing in Flask and the Higher Lower Game
-- [Day 56:](https://github.com/phillipai/100-days-of-code-python/tree/main/day56) Rendering HTML/Static Files and Using Website Templates
-- [Day 57:](https://github.com/phillipai/100-days-of-code-python/tree/main/day57) Templating with Jinja in Flask Applications
-- [Day 58:](https://github.com/phillipai/100-days-of-code-python/tree/main/day58) Web Foundation Boostrap
+- [Day 32:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_032) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
+- [Day 33:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_033) API Endpoints & API Parameters - ISS Overhead Notifier
+- [Day 34:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_034) API Practice - Creating a GUI Quiz App
+- [Day 35:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_035) Keys, Authentication & Environment Variables - Telegram Rain Notifier
+- [Day 36:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_036) Stock Trading News Alert Project
+- [Day 37:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_037) Habit Tracking Project: API Post Requests & Headers
+- [Day 38:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_038) Workout Tracking Using Google Sheets
+- [Day 39:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_039) Capstone Part 1: Flight Deal Finder
+- [Day 40:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_040) Capstone Part 2: Flight Club
+- [Day 41:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_041) Introduction to HTML
+- [Day 42:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_042) Intermediate HTML
+- [Day 43:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_043) Introduction to CSS
+- [Day 44:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_044) Intermediate CSS
+- [Day 45:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_045) Web Scraping with Beautiful Soup
+- [Day 46:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_046) Create a Spotify Playlist Using The Musical Time Machine
+- [Day 47:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_047) Create an Automated Amazon Price Tracker
+- [Day 48:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_048) Selenium Webdriver Browser and Game Playing Bot
+- [Day 49:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_049) Automating Job Applications on LinkedIn
+- [Day 50:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_050) Auto Tinder Swiping Bot
+- [Day 51:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_051) Internet Speed Twitter Complaint Bot
+- [Day 52:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_052) Instagram Follower Bot
+- [Day 53:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_053) Web Scraping Capstone - Data Entry Job Automation
+- [Day 54:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_054) Introduction to Web Development with Flask
+- [Day 55:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_055) HTML & URL Parsing in Flask and the Higher Lower Game
+- [Day 56:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_056) Rendering HTML/Static Files and Using Website Templates
+- [Day 57:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_057) Templating with Jinja in Flask Applications
+- [Day 58:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_058) Web Foundation Boostrap
 
 ## 🏆 Advanced
 - [Day 59:](https://github.com/phillipai/100-days-of-code-python/tree/main/day59) Blog Capstone Project Part 2 - Adding Styling
