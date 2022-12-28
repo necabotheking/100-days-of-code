@@ -42,6 +42,8 @@ def calculate_score(player_hand):
         score = 0
     else:
         score = sum(player_hand)
+    # check if score is over 21 AND if there is an ace
+    # replace the ace with a 1
     return score
 
 play_game = input("Do you want to play a game of blackjack? Type 'y' or 'n' \n:")
