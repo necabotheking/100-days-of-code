@@ -16,7 +16,12 @@ from art import *
 
 def guessing_game():
     """
+    Plays the guessing game
+
+    Inputs:
+        None
     
+    Returns: Outcome of the game as the user plays
     """
     print("Welcome to the Guessing Game!")
     print(logo)
@@ -24,4 +29,7 @@ def guessing_game():
     difficulty = input("Choose a difficulty. Type 'easy' or 'hard':")
     # if easy then 10 guesses
     #if hard then 5 guesses
+
+
+# run the guessing game    
 guessing_game()
