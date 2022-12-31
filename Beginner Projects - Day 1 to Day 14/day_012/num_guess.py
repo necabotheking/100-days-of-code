@@ -2,6 +2,7 @@
 # -- Day 12 Project --
 
 from art import *
+import random
 
 #Number Guessing Game Objectives:
 
@@ -26,10 +27,27 @@ def guessing_game():
     print("Welcome to the Guessing Game!")
     print(logo)
     print("I'm thinking of a number between 1 and 100.")
-    difficulty = input("Choose a difficulty. Type 'easy' or 'hard':")
+    difficulty = input("Choose a difficulty. Type 'easy' or 'hard': ")
     # if easy then 10 guesses
     #if hard then 5 guesses
+    num_guess = random.randint(0,100)
+    print(f"The number is {num_guess}")
+    if difficulty == "easy":
+        guesses = 10
+    else:
+        guesses = 5
 
+    for turn in reversed(range(1, guesses + 1)):
+        # For each turn do this
+        print(f"You have {turn} attempts remaining to guess the number")
+        user_guess = int(input("Please guess a number: "))
+        if user_guess == num_guess:
+            print("You got it right!")
+            quit()
+        elif user_guess > num_guess:
+            print("Too High!")
+        else:
+            print("Too Low!")
 
 # run the guessing game    
 guessing_game()
