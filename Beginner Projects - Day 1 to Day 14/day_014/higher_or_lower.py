@@ -4,6 +4,7 @@
 from art import *
 from game_data import *
 
+
 def check_win():
     """
     Check's if the player chose the right choice
@@ -36,13 +37,27 @@ def higher_lower():
 
     Returns: Outcome of the game
     """
-    print(logo)
-    print(f"Compare A: {}")
-    print(vs)
-    print(f"Against B: {}")
-    choice = str(input("Who has more followers? Type 'A' or 'B': ")).lower()
+    game_end = False
 
-    pass
+    score = 0
+    # A = data[]
+    # B = data[]
 
+    while not game_end:
+        print(logo)
+        print("Compare A: ")
+        print(vs)
+        print("Against B:")
+
+        print(f"Your score is currently {score}")
+        choice = str(input("Who has more followers? Type 'A' or 'B': ")).lower()
+        #if check_win(choice) == True:
+     
+        # Things to do:
+        # 1. Start the higher lower game and randomly choose A and B
+        # 2. If the player guesses correctly B becomes A, then randomly choose B
+        # 3. Update the score, tell the player they guessed correctly
+        # 4. If the player guesses incorrectly, end the game and show the player 
+        #     how many points they received
 
 higher_lower()
