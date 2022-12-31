@@ -14,10 +14,9 @@
 - [Day 10:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_010) Functions with Outputs
 - [Day 11:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_011) The Blackjack Capstone Project 
 - [Day 12:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_012) Number Guessing Game
+- [Day 13:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_013) Debugging Exercise
+- [Day 14:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_014) Higher Lower Game 
 <!--
-- [Day 13:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_013) Debugging: How to Find and Fix Errors in your Code
-- [Day 14:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_014) Higher Lower Game Project
-
 ## 📚 Intermediate
 - [Day 15:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_015) Local Development Environment Setup & the Coffee Machine
 - [Day 16:](https://github.com/necabotheking/100-days-of-code/tree/main/Beginner%20Projects%20-%20Day%201%20to%20Day%2014/day_016) Object Oriented Programming (OOP)
