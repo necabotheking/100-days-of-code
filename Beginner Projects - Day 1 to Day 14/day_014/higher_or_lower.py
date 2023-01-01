@@ -3,18 +3,29 @@
 
 from art import *
 from game_data import *
+import random
 
 
-def check_win():
+def check_win(A, B, choice):
     """
     Check's if the player chose the right choice
     
     Inputs:
-        [Inputs Here]
+        A (dict):
+        B (dict):
+        choice (str):
     
-    Returns:
+    Returns: True or False
     """
-    pass
+    if choice == "B" and B['follower_count'] > A['follower_count']:
+        print("they got it right")
+        return True
+    elif choice == "A" and A['follower_count'] > B['follower_count']:
+        print("they got it right")
+        return True
+    else:
+        print("you got it wrong")
+        return False
  
 def outcome():
     """
@@ -26,6 +37,18 @@ def outcome():
     Returns:
     """
     pass
+
+# def random_selection(game_data):
+#     """
+#     Shuffles the game data 
+
+#     Inputs:
+#         game_data (lst): 
+    
+#     Returns: (dict) A and B 
+#     """
+#     random.shuffle(game_data)
+#     return game_data[0], game_data[1]
 
 
 def higher_lower():
@@ -40,18 +63,30 @@ def higher_lower():
     game_end = False
 
     score = 0
-    # A = data[]
-    # B = data[]
+    A = data[0]
+    B = data[1]
+    # A, B = random_selection(data)
 
     while not game_end:
         print(logo)
-        print("Compare A: ")
+        print(f"Compare A: {A['name']}, a {A['description']}, from {A['country']}")
         print(vs)
-        print("Against B:")
+        print(f"Against B: {B['name']}, a {B['description']}, from {B['country']}")
 
         print(f"Your score is currently {score}")
-        choice = str(input("Who has more followers? Type 'A' or 'B': ")).lower()
-        #if check_win(choice) == True:
+        choice = str(input("Who has more followers? Type 'A' or 'B': ")).upper()
+        
+        if check_win(A, B, choice) == True:
+            score += 1
+            # Is a for loop needed to iterate through the list of dicionaries 
+            # # and change to the next choice? 
+            # A = B
+            # B = B + 1
+        else:
+            final_score = score
+            print(logo)
+            print(f"Sorry that's wrong, final score: {final_score}")
+            game_end = True
      
         # Things to do:
         # 1. Start the higher lower game and randomly choose A and B
