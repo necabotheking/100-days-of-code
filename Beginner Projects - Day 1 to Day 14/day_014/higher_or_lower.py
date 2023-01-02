@@ -27,16 +27,25 @@ def check_win(A, B, choice):
         print("you got it wrong")
         return False
  
-def outcome():
+def shift_game(B, game_data_copy):
     """
     Based on if the player won or lost the outcome is given
     
     Inputs:
-        [Inputs Here]
+       game_data_copy (lst): 
 
-    Returns:
+    Returns: A and B
     """
-    pass
+    for i in range(len(game_data_copy)):
+        if game_data_copy[i] != B:
+            continue
+        else:
+            game_data_copy = game_data_copy[i::]
+            A = game_data_copy[0]
+            B = game_data_copy[1]
+            break
+    return A, B
+
 
 # def random_selection(game_data):
 #     """
@@ -63,8 +72,9 @@ def higher_lower():
     game_end = False
 
     score = 0
-    A = data[0]
-    B = data[1]
+    game_data_copy = data[:]
+    A = game_data_copy[0]
+    B = game_data_copy[1]
     # A, B = random_selection(data)
 
     while not game_end:
@@ -79,9 +89,8 @@ def higher_lower():
         if check_win(A, B, choice) == True:
             score += 1
             # Is a for loop needed to iterate through the list of dicionaries 
-            # # and change to the next choice? 
-            # A = B
-            # B = B + 1
+            # # and change to the next choice 
+            A, B = shift_game(B, game_data_copy)
         else:
             final_score = score
             print(logo)
